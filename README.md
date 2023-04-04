@@ -6,3 +6,5 @@ A Trigger is made using IR Sensor, to fire the rifle and burst the balloons, whi
 
 Schematic of connections in hardware.!
 https://user-images.githubusercontent.com/92046906/229625732-2c65e508-536b-492e-8607-a47dd8a9beaf.png
+
+Small dem0 (May be unclear, due to glitches. Will be rectified soon) : https://youtu.be/WX-lUu1ZGJs
